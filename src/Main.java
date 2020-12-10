@@ -23,5 +23,17 @@ public class Main {
         MailUtil.sendMail(from, pass, to, server, port, subject, body);
 
     }
+    public static void getMailContents(){
+
+    }
+    public static void getSender(){
+
+    }
+    public static void getRecipient(){
+
+    }
+    public static void getServer(){
+
+    }
 
 }
